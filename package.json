@@ -1,0 +1,19 @@
+{
+  "name": "sib_nodejs-basic",
+  "version": "1.0.0",
+  "description": "NodeJS-Basic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadekframa/NodeJS-Basic.git"
+  },
+  "author": "Kadek Frama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadekframa/NodeJS-Basic/issues"
+  },
+  "homepage": "https://github.com/kadekframa/NodeJS-Basic#readme"
+}
